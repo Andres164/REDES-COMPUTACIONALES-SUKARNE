@@ -1,10 +1,10 @@
-Corporativo: 	44.231.1.1
-Data center: 	44.232.1.1
-Los mochis: 	44.233.1.1
-Guasave: 	44.234.1.1
-Culiacancito: 	44.235.1.1
-Mazatlan: 	44.236.1.1
-Escuinapa: 	44.237.1.1
+Corporativo: 	44.231.1.0
+Data center: 	44.232.1.0
+Los mochis: 	44.233.1.0
+Guasave: 	44.234.1.0
+Culiacancito: 	44.235.1.0
+Mazatlan: 	44.236.1.0
+Escuinapa: 	44.237.1.0
                        ^ ^
          VLAN  ________| |
                          |
